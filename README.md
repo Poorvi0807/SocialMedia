@@ -20,7 +20,7 @@
 1. Clone the repository.
 2. Navigate to the backend directory.
 3. Run npm install to install dependencies.
-4. Run npm run start to start the development server.
+4. Run node index to start the development server.
 
 ## API Endpoints
 
