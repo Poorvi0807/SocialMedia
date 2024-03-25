@@ -60,21 +60,6 @@ module.exports = {
       } catch (error) {
         throw new Error(error);
       }
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     },
     async deletePost(_, { postId }, context){
       const user = checkAuth(context);
